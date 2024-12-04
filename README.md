@@ -83,7 +83,7 @@ Fique à vontade para explorar meus projetos e entrar em contato!
   />
   <img 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </div>

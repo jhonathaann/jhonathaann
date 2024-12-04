@@ -5,6 +5,7 @@ Olá! Meu nome é Jhonathan, sou estudante de Ciência da Computação na Univer
 - Teoria da Computação: especialmente em tópicos relacionados à otimização combinatória e seus desafios.
 - Motion Capture: tecnologias que envolvem a captura e rastreamento de movimentos em 3D, com aplicações em áreas como animação e reabilitação.
 - Desenvolvimento de Jogos: explorar o game design, a mecânica e as tecnologias que tornam jogos únicos e inovadores.
+
 Estou sempre em busca de aprender, aplicar e compartilhar conhecimento sobre esses temas.
 
 Fique à vontade para explorar meus projetos e entrar em contato!
@@ -86,3 +87,6 @@ Fique à vontade para explorar meus projetos e entrar em contato!
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+
+
+

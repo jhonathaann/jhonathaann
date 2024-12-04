@@ -73,20 +73,18 @@ Fique à vontade para explorar meus projetos e entrar em contato!
 <br/>
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
+
+<div style="display: flex; align-items: center;">
+  <img 
     alt="Github Stats" 
-    height="200px" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=jhonathaann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
+  />
+  <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
-
+</div>
 

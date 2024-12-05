@@ -72,8 +72,6 @@ Fique à vontade para explorar meus projetos e entrar em contato!
 <br/>
 <br/>
 ### 📊 Estatísticas
-
-<div style="display: flex; align-items: center;">
   <img 
     alt="Github Stats" 
     height="200" 
@@ -85,6 +83,5 @@ Fique à vontade para explorar meus projetos e entrar em contato!
     height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-</div>
 
 

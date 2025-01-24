@@ -81,7 +81,7 @@ Fique à vontade para explorar meus projetos e entrar em contato!
 
 <br/>
 <br/>
-### 📊 Estatísticas
+📊 Estatísticas
 
 <div style="display: flex; align-items: center;">
   <img 

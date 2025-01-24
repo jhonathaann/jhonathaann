@@ -60,7 +60,8 @@ Fique à vontade para explorar meus projetos e entrar em contato!
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="Mediapipe" 
@@ -69,9 +70,20 @@ Fique à vontade para explorar meus projetos e entrar em contato!
     style="padding-right: 10px;" 
     src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/mediapipe_icon.png" 
 />
+<img 
+    align="left" 
+    alt="GameMaker" 
+    title="GameMaker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png" 
+/>
+
 <br/>
 <br/>
 ### 📊 Estatísticas
+
+<div style="display: flex; align-items: center;">
   <img 
     alt="Github Stats" 
     height="200" 
@@ -81,7 +93,7 @@ Fique à vontade para explorar meus projetos e entrar em contato!
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
+</div>
 

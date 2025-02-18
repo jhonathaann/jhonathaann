@@ -78,6 +78,14 @@ Fique à vontade para explorar meus projetos e entrar em contato!
     style="padding-right: 10px;" 
     src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png" 
 />
+<img 
+    align="left" 
+    alt="SCIP" 
+    title="SCIP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.ecole.ai/2021/ml4co-competition/images/skippy_logo_ml4co.png" 
+/>
 
 <br/>
 <br/>

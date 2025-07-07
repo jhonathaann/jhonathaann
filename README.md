@@ -2,15 +2,13 @@
 
 Olá! Meu nome é Jhonathan, sou estudante de Ciência da Computação na Universidade Federal do Mato Grosso do Sul (UFMS). Tenho um grande interesse por áreas que combinam teoria e prática em computação:
 
-- Teoria da Computação: especialmente em tópicos relacionados à otimização combinatória e seus desafios.
-- Motion Capture: tecnologias que envolvem a captura e rastreamento de movimentos em 3D, com aplicações em áreas como animação e reabilitação.
+- Teoria da Computação: especialmente em tópicos relacionados à otimização combinatória e teoria do grafos.
+- Motion Capture: tecnologias que envolvem a captura e rastreamento de movimentos em 3D, com aplicações em áreas como reabilitação.
 - Desenvolvimento de Jogos: explorar o game design, a mecânica e as tecnologias que tornam jogos únicos e inovadores.
 
 Estou sempre em busca de aprender, aplicar e compartilhar conhecimento sobre esses temas.
 
-Fique à vontade para explorar meus projetos e entrar em contato!
 
-  
   ##
  
 <div> 

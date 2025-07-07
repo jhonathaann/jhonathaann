@@ -1,5 +1,7 @@
 # 👨🏻‍💻 Jhonathan 
 
+**`Pesquisador na área de Teoria da Computação`**
+
 Olá! Meu nome é Jhonathan, sou estudante de Ciência da Computação na Universidade Federal do Mato Grosso do Sul (UFMS). Tenho um grande interesse por áreas que combinam teoria e prática em computação:
 
 - Teoria da Computação: especialmente em tópicos relacionados à otimização combinatória e teoria do grafos.

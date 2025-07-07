@@ -100,12 +100,12 @@ Estou sempre em busca de aprender, aplicar e compartilhar conhecimento sobre ess
     alt="Github Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jhonathaann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jhonathaann&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" 
   />
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaann&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </div>
 

@@ -21,6 +21,14 @@ Estou sempre em busca de aprender, aplicar e compartilhar conhecimento sobre ess
   <a href="https://www.linkedin.com/in/jhonathan-duarte-53b379360" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://lattes.cnpq.br/4978977009978626" target="_blank">
+    <img src="https://img.shields.io/badge/-Lattes-%230066cc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTkgM2MtMS4xIDAtMiAuOS0yIDJoMnYyaC0ydjJoMnYySDdjLTEuMSAwLTIgLjktMiAycy45IDIgMiAyaDJ2MmgtMnYyaDJjMS4xIDAgMi0uOSAyLTJzLS45LTItMi0yaC0ydi0yaDJjMS4xIDAgMi0uOSAyLTJzLS45LTItMi0yaC0uMiAwLS40IDAtLjYgMCAuMiAwIC40IDBjLjkgMCAxLjYuNyAxLjYgMS42IDAgLjYtLjMgMS4xLS44IDEuNCAuNi4yIDEuMS44IDEuMSAxLjYgMCAuOS0uNyAxLjYtMS42IDEuNi0uNiAwLTEuMS0uMy0xLjQtLjggLS4yLjEtLjQuMi0uNi4yLS4yIDAtLjQtLjEtLjYtLjF2M2MwIDEuMS45IDIgMiAyaDEuNnYySDl2MiBoMi42YzEuMSAwIDItLjkgMi0yIDAtMS4xLS45LTItMi0yaC0yVjloMi4xYzEuMSAwIDItLjkgMi0ycy0uOS0yLTItMnoiLz48L3N2Zz4=&logoColor=white" alt="Lattes">
+  </a>
+
+  <a href="https://www.instagram.com/d.jhona7han/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 

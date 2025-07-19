@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Jhonathan 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&lines=Ol%C3%A1%2C+eu+me+chamo+Jhonathan!)](https://git.io/typing-svg)
 
-**`Pesquisador na área de Teoria da Computação`**
+## **`👨🏻‍💻 Pesquisador na área de Teoria da Computação`**
 
 Olá! Meu nome é Jhonathan, sou estudante de Ciência da Computação na Universidade Federal do Mato Grosso do Sul (UFMS). Tenho um grande interesse por áreas que combinam teoria e prática em computação:
 

@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&lines=Ol%C3%A1%2C+eu+me+chamo+Jhonathan!)](https://git.io/typing-svg)
+<!-- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&lines=Ol%C3%A1%2C+eu+me+chamo+Jhonathan!)](https://git.io/typing-svg) -->
+
+# Olá, eu me chamo Jhonathan o/
 
 ## **`👨🏻‍💻 Pesquisador na área de Teoria da Computação`**
 
@@ -99,6 +101,14 @@ Estou sempre em busca de aprender, aplicar e compartilhar conhecimento sobre ess
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.ecole.ai/2021/ml4co-competition/images/skippy_logo_ml4co.png" 
+/>
+<img 
+    align="left" 
+    alt="PANDAS" 
+    title="PANDAS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.seeklogo.com/logo-png/48/1/pandas-icon-logo-png_seeklogo-483545.png" 
 />
 
 <br/>
